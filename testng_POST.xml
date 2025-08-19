@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="D:/API Automation/ATB12xAPIAutomationProgram">
+    <classes>
+        <class name="com.thetestingacademy.Ex_04_RestAssured_HTTPS_Methods.POST.APITesting_Lab10_POST_BDD_Style">
+        </class>
+</classes></test></suite>
